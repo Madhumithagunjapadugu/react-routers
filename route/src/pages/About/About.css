@@ -1,0 +1,30 @@
+.about {
+  width: 75%;
+  margin: 50px auto;
+  padding: 35px;
+  background: linear-gradient(135deg, #f0f4ff, #e6f0ff);
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.about h1 {
+  text-align: center;
+  color: #1d4ed8;
+  margin-bottom: 25px;
+  font-size: 32px;
+  letter-spacing: 1px;
+}
+
+.about p {
+  font-size: 25px;
+  line-height: 1.8;
+  color: #333;
+  margin-bottom: 18px;
+  text-align: center;
+}
+
+.about strong {
+  color: #0f172a;
+  font-weight: bold;
+}

@@ -1,0 +1,20 @@
+#one{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:40px;
+}
+#two{
+    width:400px;
+    text-align:center;
+    background-color: whitesmoke;
+    box-shadow: 2px 3px 10px black;
+    height:400px;
+    padding:40px;
+    margin:40px;
+    
+}
+#two:hover{
+    transform:scale(1.1);
+}

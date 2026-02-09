@@ -1,0 +1,21 @@
+#name{
+    text-align:center;
+    font-size:40px;
+    color:violet;
+    text-shadow:0px 0px 2px black;
+
+}
+#part{
+  width:700px;
+  padding:30px;
+    text-align:center;
+    box-shadow:2px 2px 10px black;
+    font-size:25px;
+    margin-left:620px;
+    margin-top:40px;
+    background: linear-gradient(135deg, #f0f4ff, #e6f0ff);
+
+}
+#part:hover{
+    transform:scale(1.1);
+}

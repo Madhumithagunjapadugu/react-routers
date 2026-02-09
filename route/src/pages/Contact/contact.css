@@ -1,0 +1,27 @@
+.contact{
+    text-align:center;
+    background: linear-gradient(135deg, #f0f4ff, #e6f0ff);
+    box-shadow: 2px 2px 10px black;
+    padding:50px;
+    display:inline-block;
+    /* margin-left:700px;  */
+    margin:50px 550px;
+
+}
+.contact h1{
+    color:blue;
+    font-size:40px;
+    margin:20px;
+}
+.contact p{
+    font-size:25px;
+    color:rgb(47, 18, 18)
+}
+.contact p::selection{
+    background-color: yellow;
+    color:red;
+
+}
+.contact:hover{
+    transform:scale(1.1);
+}
