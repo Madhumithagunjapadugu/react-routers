@@ -4,7 +4,7 @@ import Contact from './pages/Contact/Contact'
 import Home from  './pages/Home/Home'
 import Navbar from './components/Navbar/Navbar'
 import Receipe from './components/Navbar/Receipies/Receipe'
-import Singlereceipe from './components/singlereceipe/singlereceipe'
+import Singlereceipe from './components/Singlereceipe/Singlereceipe'
 function App(){
     return(
         <div>
