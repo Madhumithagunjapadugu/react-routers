@@ -11,7 +11,7 @@ img{
     width:300px;
 }
 #item h1{
-    color:blue;
+    color:rgb(166, 19, 92);
 }
 #item h1:hover{
     font-size: 28px;
